@@ -8,12 +8,12 @@ With the increasing convenience of online services, you can now check your SEPCO
 
 ## Steps to Check Your SEPCO Bill Online
 
-Follow these simple steps to check your SEP Co. bill:
+Follow these simple steps to check your SEPCO bill:
 
 1. **Open Your Web Browser:**
    Launch your preferred web browser (e.g., Chrome, Firefox, Safari).
 
-2. **Visit the SEP Co. Bill Checking Website:**
+2. **Visit the SEPCO Bill Checking Website:**
    [Go to](https://sepcobill.com.pk) SEPCO Bill Online website. 
 
 3. **Enter Your Details:**
