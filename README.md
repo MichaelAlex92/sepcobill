@@ -6,7 +6,7 @@ Welcome to the guide on checking your SEPCO bill online website. This guide will
 
 With the increasing convenience of online services, you can now check your SEPCO bill without having to visit physical offices. Sepcobill.com.pk website provides an easy and efficient way to view your current and past electricity bills online.
 
-## Steps to Check Your SEP Co. Bill Online
+## Steps to Check Your SEPCO Bill Online
 
 Follow these simple steps to check your SEP Co. bill:
 
